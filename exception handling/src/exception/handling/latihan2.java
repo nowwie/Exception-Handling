@@ -17,7 +17,7 @@ public class latihan2 {
                 "KESALAHAN: null pointer");
             }else {
                 throw new ArithmeticException(
-                "KESALAHAN: arithmetic exception");
+                "kesalaham: arithmetic exception");
             }
     }
     
